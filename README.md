@@ -9,7 +9,6 @@ Con más de 16 años de experiencia en el sector tecnológico, me especializo en
 - 🚀 **Major Achievement:** Architected a **Serverless infrastructure certified for PCI Compliance**, migrating from AWS EKS to optimize costs and security.
 - 🌱 **Learning & Mastery:** Deep diving into **Kotlin** for mobile scanning solutions and advanced **Solutions Architecture**.
 - 💬 **Ask me about:** `Go`, `PHP (Laravel)`, `Node.js`, `Python`, `Serverless`, `AWS/GCP/OCI`, and `PCI Security`.
-- 📫 **How to reach me:** **javifloresp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
