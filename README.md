@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Javier%20Flores&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Lead%20·%20Cloud%20Architect%20·%20Builder%20of%20ticketing%20infra&descAlignY=62&descSize=16" alt="header" />
 
 <a href="https://github.com/javifloresp">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=22C55E&center=true&vCenter=true&width=720&height=42&lines=Construyendo+infraestructura+para+experiencias+en+vivo;Validacion+atomica+de+tickets+sub-10ms;Arquitectura+serverless+con+cumplimiento+PCI-DSS;14%2B+anios+enviando+software+en+Mexico+y+Ecuador" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=22C55E&center=true&vCenter=true&width=720&height=42&lines=Construyendo+infraestructura+para+experiencias+en+vivo;Validacion+atomica+de+tickets+en+tiempo+real;Arquitectura+serverless+con+cumplimiento+PCI-DSS;14%2B+anios+enviando+software+en+Mexico+y+Ecuador" alt="typing" />
 </a>
 
 <p>
@@ -31,7 +31,7 @@ Lidero ingeniería en **Lizos Music** y construyo la plataforma detrás de **Sea
 
 ### ⚡ Motor de escaneo atómico
 Microservicio en Go + Valkey/Redis Streams.
-Validación de tickets **sub-10ms**, cero condiciones de carrera y telemetría en vivo sobre WebSockets.
+Validación de tickets en tiempo real, cero condiciones de carrera y telemetría en vivo sobre WebSockets.
 
 </td>
 <td width="50%" valign="top">
@@ -62,7 +62,7 @@ Codebase DDD de 24 dominios sobre **Laravel 12 + PHP 8.2**, framework de ejecuci
 ## 🏆 Logros destacados
 
 - 🏛️ Arquitecté una infraestructura **serverless con cumplimiento PCI-DSS** (migración desde AWS EKS)
-- ⚡ Validación atómica de tickets **sub-10ms** bajo carga real de eventos en vivo
+- ⚡ Validación atómica de tickets en tiempo real, sin condiciones de carrera bajo carga de eventos en vivo
 - 🌎 Experiencia multi-cloud en **AWS · GCP · OCI**
 - 👥 Liderando equipos de ingeniería distribuidos en México
 
@@ -136,10 +136,12 @@ Ingeniería aumentada con IA por default — uso **Claude Code**, **Gemini** y *
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=javifloresp&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&icon_color=22c55e&title_color=22c55e&cache_seconds=1800" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javifloresp&layout=compact&hide_border=true&theme=tokyonight&title_color=22c55e&langs_count=8&cache_seconds=1800" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=javifloresp&theme=tokyonight" alt="stats" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=javifloresp&theme=tokyonight" alt="most-commit-language" />
 
 <img src="https://streak-stats.demolab.com?user=javifloresp&theme=tokyonight&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" alt="streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=javifloresp&theme=tokyonight&utcOffset=-7" alt="productive-time" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=javifloresp&theme=tokyo-night&hide_border=true&color=22c55e&line=22c55e&point=ffffff&area=true" alt="activity graph" />
 
