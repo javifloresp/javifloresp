@@ -44,14 +44,28 @@ Codebase DDD de 24 dominios sobre **Laravel 12 + PHP 8.2**, framework de ejecuci
 <tr>
 <td width="50%" valign="top">
 
-### 📱 Scanner nativo Android
-**Kotlin + Jetpack Compose**, offline-first, escáner dual (hardware Zebra + cámara ML Kit).
+### 🤖 Suite Android nativa
+**Kotlin + Jetpack Compose + Hilt**. Scanner offline-first (hardware Zebra + ML Kit), POS tablet-first para taquilla y monitor de flota en tiempo real.
 
 </td>
 <td width="50%" valign="top">
 
+### 🍎 Apps iOS nativas
+**Swift + SwiftUI + async/await**. App para fans (compra, tickets y check-in) y monitor de flota para coordinadores de eventos en iPad/iPhone.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 📊 Dashboard de operación
 **React 19 + Vite + shadcn**, monitoreo de eventos en tiempo real sobre canales Pusher.
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Plataforma serverless PCI-DSS
+Infraestructura cloud-native con cumplimiento **PCI compliance**, migrada desde AWS EKS. Multi-cloud (**AWS · GCP · OCI**).
 
 </td>
 </tr>
