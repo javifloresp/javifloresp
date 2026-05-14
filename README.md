@@ -1,45 +1,55 @@
-<h1 align="center">Hi 👋, I'm Javier Flores</h1>
-<h3 align="center">Development Manager | Cloud Architect | Ex-Founder</h3>
-
-<p align="left"> 
-Con más de 16 años de experiencia en el sector tecnológico, me especializo en construir infraestructuras escalables y liderar equipos de ingeniería de alto rendimiento. Mi enfoque actual está en la arquitectura Cloud moderna y el cumplimiento de estándares de seguridad críticos.
+<h1 align="center">Javier Flores</h1>
+<p align="center">
+  <b>Engineering Lead · Cloud Architect · Builder of ticketing infra</b><br/>
+  <sub>Construyendo infraestructura para experiencias en vivo · Mazatlán, MX</sub>
 </p>
 
-- 🔭 **Currently working on:** Leading engineering at **Lizos Music** and scaling high-availability systems.
-- 🚀 **Major Achievement:** Architected a **Serverless infrastructure certified for PCI Compliance**, migrating from AWS EKS to optimize costs and security.
-- 🌱 **Learning & Mastery:** Deep diving into **Kotlin** for mobile scanning solutions and advanced **Solutions Architecture**.
-- 💬 **Ask me about:** `Go`, `PHP (Laravel)`, `Node.js`, `Python`, `Serverless`, `AWS/GCP/OCI`, and `PCI Security`.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/javifloresp/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/javifloresp19" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.instagram.com/javifloresp/" target="blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/javifloresp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/javifloresp19"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <img src="https://img.shields.io/badge/Open_to-Advisory-22c55e?style=flat-square" alt="Open to advisory" />
 </p>
 
 ---
 
+### About
+
+I lead engineering at **Lizos Music** and ship the platform behind **Seatix** — a high-availability ticketing stack for live events. Previously co-founded **RetryPay** (payments, 4 yrs), where I built the PCI-compliant foundations I still architect on today.
+
+14+ years writing software across México and Ecuador. Most of my work lives where reliability meets latency: payments, real-time validation, and distributed services that can't afford to fail at showtime.
+
+### What I'm building
+
+- **Atomic scan engine** — Go + Valkey/Redis Streams microservice. Sub-10ms ticket validation with zero race conditions and live telemetry over WebSockets.
+- **Domain-driven Laravel backend** — 24-domain DDD codebase on Laravel 12 + PHP 8.2, custom execution framework, event-sourced order flows.
+- **Native Android scanner** — Kotlin + Jetpack Compose, offline-first, dual scanner (Zebra hardware + ML Kit camera).
+- **Operator dashboard** — React 19 + Vite + shadcn, real-time event monitoring over Pusher channels.
+
+### Highlights
+
+- 🏛️ Architected a **PCI-DSS compliant** serverless infrastructure (migrated off AWS EKS)
+- ⚡ **Sub-10ms** atomic ticket validation under live-event load
+- 🌎 Multi-cloud experience across **AWS · GCP · OCI**
+- 👥 Leading distributed engineering teams across México
+
+### Stack I work with
+
+**Backend** — Go (Fiber) · PHP (Laravel) · Node.js · Python
+**Mobile** — Kotlin · Jetpack Compose · React Native
+**Frontend** — React · TypeScript · Vite · Tailwind
+**Data** — PostgreSQL · MySQL · Redis/Valkey · MongoDB
+**Cloud & Ops** — AWS · GCP · OCI · Docker · Kubernetes · Serverless · Terraform
+
+### Currently exploring
+
+Deep Kotlin/Android internals for high-throughput scanning · Atomic Redis/Valkey patterns · Multi-region serverless on OCI.
+
+### Let's talk
+
+Open to **technical advisory** on payments, PCI compliance, ticketing infrastructure, real-time scanning systems, and engineering leadership for early- and growth-stage teams. Best place to reach me: [LinkedIn](https://www.linkedin.com/in/javifloresp/).
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javifloresp&show_icons=true&theme=radical" alt="Javi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=javifloresp&show_icons=true&hide_border=true&theme=transparent&icon_color=22c55e&title_color=22c55e" alt="Javi's GitHub stats" />
 </p>
