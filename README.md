@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Javier%20Flores&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Lead%20·%20Cloud%20Architect%20·%20Builder%20of%20ticketing%20infra&descAlignY=62&descSize=16" alt="header" />
 
 <a href="https://github.com/javifloresp">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Construyendo+infraestructura+para+experiencias+en+vivo;Validación+atómica+de+tickets+sub-10ms;Arquitectura+serverless+con+cumplimiento+PCI-DSS;14%2B+años+enviando+software+en+México+y+Ecuador&font=Fira%20Code&center=true&width=720&height=42&color=22c55e&vCenter=true&pause=1200&size=18" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=22C55E&center=true&vCenter=true&width=720&height=42&lines=Construyendo+infraestructura+para+experiencias+en+vivo;Validacion+atomica+de+tickets+sub-10ms;Arquitectura+serverless+con+cumplimiento+PCI-DSS;14%2B+anios+enviando+software+en+Mexico+y+Ecuador" alt="typing" />
 </a>
 
 <p>
@@ -86,6 +86,9 @@ Codebase DDD de 24 dominios sobre **Laravel 12 + PHP 8.2**, framework de ejecuci
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 **Frontend**
@@ -133,10 +136,10 @@ Ingeniería aumentada con IA por default — uso **Claude Code**, **Gemini** y *
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=javifloresp&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&icon_color=22c55e&title_color=22c55e&locale=es" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javifloresp&layout=compact&hide_border=true&theme=tokyonight&title_color=22c55e&langs_count=8&locale=es" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=javifloresp&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&icon_color=22c55e&title_color=22c55e&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javifloresp&layout=compact&hide_border=true&theme=tokyonight&title_color=22c55e&langs_count=8&cache_seconds=1800" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=javifloresp&theme=tokyonight&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&locale=es" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=javifloresp&theme=tokyonight&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" alt="streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=javifloresp&theme=tokyo-night&hide_border=true&color=22c55e&line=22c55e&point=ffffff&area=true" alt="activity graph" />
 
