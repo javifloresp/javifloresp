@@ -40,9 +40,13 @@ I lead engineering at **Lizos Music** and ship the platform behind **Seatix** �
 **Data** — PostgreSQL · MySQL · Redis/Valkey · MongoDB
 **Cloud & Ops** — AWS · GCP · OCI · Docker · Kubernetes · Serverless · Terraform
 
+### How I work
+
+AI-augmented engineering by default — I use **Claude Code**, **Gemini**, and **Cursor** as part of my daily loop for design exploration, code review, and shipping faster across multiple stacks. The leverage is real when paired with strong architectural taste.
+
 ### Currently exploring
 
-Deep Kotlin/Android internals for high-throughput scanning · Atomic Redis/Valkey patterns · Multi-region serverless on OCI.
+Deep Kotlin/Android internals for high-throughput scanning · Atomic Redis/Valkey patterns · Multi-region serverless on OCI · Agentic AI workflows for engineering teams.
 
 ### Let's talk
 
