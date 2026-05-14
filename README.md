@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Javier%20Flores&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Lead%20·%20Cloud%20Architect%20·%20Builder%20of%20ticketing%20infra&descAlignY=62&descSize=16" alt="header" />
 
 <a href="https://github.com/javifloresp">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=22C55E&center=true&vCenter=true&width=720&height=42&lines=Construyendo+infraestructura+para+experiencias+en+vivo;Validacion+atomica+de+tickets+en+tiempo+real;Arquitectura+serverless+con+cumplimiento+PCI-DSS;14%2B+anios+enviando+software+en+Mexico+y+Ecuador" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=22C55E&center=true&vCenter=true&width=760&height=42&lines=Liderando+ingenieria+en+Lizos+Music+y+Seatix;Construyendo+infraestructura+para+experiencias+en+vivo;Apps+nativas+iOS+y+Android+para+operaciones+de+eventos;14%2B+anios+enviando+software+en+Mexico+y+Ecuador" alt="typing" />
 </a>
 
 <p>
@@ -17,9 +17,9 @@
 
 ## 👋 Sobre mí
 
-Lidero ingeniería en **Lizos Music** y construyo la plataforma detrás de **Seatix** — un stack de ticketing de alta disponibilidad para eventos en vivo. Antes co-fundé **RetryPay** (pagos, 4 años), donde construí las bases de cumplimiento PCI sobre las que sigo arquitectando hoy.
+Actualmente lidero ingeniería en **Lizos Music** y construyo la plataforma detrás de **Seatix** — un stack de ticketing de alta disponibilidad para eventos en vivo. Antes co-fundé **RetryPay** (pagos, 4 años), donde construí infraestructura PCI-compliant — esa experiencia hoy se traduce en cómo arquitecto sistemas para eventos en vivo.
 
-**14+ años** escribiendo software entre **México** y **Ecuador**. La mayor parte de mi trabajo vive donde la confiabilidad se encuentra con la latencia: pagos, validación en tiempo real, y servicios distribuidos que no se pueden caer a la hora del evento.
+**14+ años** escribiendo software entre **México** y **Ecuador**. La mayor parte de mi trabajo vive donde la confiabilidad se encuentra con la latencia: validación en tiempo real, servicios distribuidos y apps nativas que no se pueden caer a la hora del evento.
 
 ---
 
@@ -64,8 +64,8 @@ Codebase DDD de 24 dominios sobre **Laravel 12 + PHP 8.2**, framework de ejecuci
 </td>
 <td width="50%" valign="top">
 
-### ☁️ Plataforma serverless PCI-DSS
-Infraestructura cloud-native con cumplimiento **PCI compliance**, migrada desde AWS EKS. Multi-cloud (**AWS · GCP · OCI**).
+### 🔧 Atlas Engine framework
+Framework de ejecución unificado sobre Laravel: **Actions** transaccionales, **Managers** contextuales y comandos Artisan compartidos por los 24 dominios del backend.
 
 </td>
 </tr>
@@ -75,8 +75,9 @@ Infraestructura cloud-native con cumplimiento **PCI compliance**, migrada desde 
 
 ## 🏆 Logros destacados
 
-- 🏛️ Arquitecté una infraestructura **serverless con cumplimiento PCI-DSS** (migración desde AWS EKS)
+- 🎟️ Plataforma de ticketing **multi-stack** en producción para eventos en vivo (backend, microservicios, apps nativas y dashboard)
 - ⚡ Validación atómica de tickets en tiempo real, sin condiciones de carrera bajo carga de eventos en vivo
+- 🏛️ En RetryPay arquitecté una infraestructura **serverless con cumplimiento PCI-DSS** (migración desde AWS EKS)
 - 🌎 Experiencia multi-cloud en **AWS · GCP · OCI**
 - 👥 Liderando equipos de ingeniería distribuidos en México
 
@@ -175,8 +176,9 @@ Internals de Kotlin/Android para escaneo de alto throughput · Patrones atómico
 
 Disponible para **asesoría técnica** en:
 
-- 💳 Arquitectura de pagos y cumplimiento PCI
-- 🎟️ Infraestructura de ticketing y escaneo en tiempo real
+- 🎟️ Infraestructura de ticketing y operación de eventos en vivo
+- 📱 Apps nativas iOS / Android para operaciones en tiempo real
+- 🏗️ Arquitectura backend domain-driven y microservicios distribuidos
 - ☁️ Migraciones multi-cloud y serverless
 - 👥 Liderazgo de ingeniería para equipos en etapa temprana y crecimiento
 
